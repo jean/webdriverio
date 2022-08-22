@@ -34,6 +34,6 @@ Tidelift works with GitHub, GitLab, BitBucket, and more. We support every cloud 
 The end result? All of the capabilities you expect from commercial-grade software, for the full breadth of open source you use. That means less time grappling with esoteric open source trivia, and more time building your own applications—and your business.
 
 <div class="learnmore">
-    <a class="button" href="https://tidelift.com/subscription/pkg/npm-webdriverio?utm_source=npm-webdriverio&utm_medium=referral&utm_campaign=enterprise" target="_self">Learn More</a>
+    <a class="button" href="https://support.tidelift.com/hc/en-us/articles/7116900889620-Tidelift-product-overview?utm_source=npm-webdriverio&utm_medium=referral&utm_campaign=enterprise" target="_self">Learn More</a>
     <a class="button" href="https://tidelift.com/subscription/request-a-demo?utm_source=npm-webdriverio&utm_medium=referral&utm_campaign=enterprise" target="_self">Request a demo</a>
 </div>
